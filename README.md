@@ -1,3 +1,11 @@
+通过网盘分享的文件：EDA精英挑战赛
+链接: https://pan.baidu.com/s/1IVQDhbOoNjaepG6CxPjCSg 提取码: jd4u 
+--来自百度网盘超级会员v5的分享
+网盘是相关的资料
+
+对2025中国研究生创“芯”大赛·EDA精英挑战赛的FPGA双输出LUT的逻辑映射算法进行复盘总结
+
+
 
 # FPGA 双输出 LUT 逻辑映射优化工具
 
